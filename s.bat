@@ -1,0 +1,2 @@
+for %i in (*.jpg) do echo ^<img src="%i" /^> >> all.html
+
